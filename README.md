@@ -1,16 +1,13 @@
-# flat_7
+Программирование Корпоративных Систем
 
-A new Flutter project.
+ЭФБО-03-22 Колпащиков И. М.
 
-## Getting Started
+# Практика №6
 
-This project is a starting point for a Flutter application.
+Главная страница
 
-A few resources to get you started if this is your first Flutter project:
+![alt_text](https://github.com/RogaJedi/flat_7/blob/master/flat_7_demo_1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Страница корзины
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt_text](https://github.com/RogaJedi/flat_7/blob/master/flat_7_demo_2.png)
